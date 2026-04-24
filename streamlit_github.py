@@ -124,4 +124,4 @@ elif page == "Salary Prediction":
 
 else:
     st.title("About")
-    st.write("Cloud Streamlit app using the exact B.csv schema expected by the uploaded models.")
+    st.write("Hi! I'm Robert Rasidy, a passionate data scientist and machine learning enthusiast. I have a strong background in deep learning and have worked on various projects involving image classification, natural language processing, and predictive modeling. I enjoy exploring new technologies and applying them to solve real-world problems. In this project, I developed a student placement and salary prediction system using advanced machine learning techniques. Feel free to explore the app and let me know if you have any questions or feedback!        ")
